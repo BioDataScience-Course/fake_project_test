@@ -9,3 +9,4 @@ Modification du README avec l'objectif de faire des tests de synchronisation ent
 -   Nos templates
 -   template généré par GitHub Classroom
 
+C'est pas simple de faire cette synchronisation ....
