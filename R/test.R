@@ -1,3 +1,3 @@
-# Code R à analyser
+# Code R à surtout ne pas analyser
 
 # TODO
